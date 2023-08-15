@@ -1,0 +1,11 @@
+Model Information:
+* title:	2005 Jaguar XJ6 TDVi (X350)
+* source:	https://sketchfab.com/3d-models/2005-jaguar-xj6-tdvi-x350-030d2d750085459aa169e6a187d4c37a
+* author:	Fishboe (https://sketchfab.com/ministephen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "2005 Jaguar XJ6 TDVi (X350)" (https://sketchfab.com/3d-models/2005-jaguar-xj6-tdvi-x350-030d2d750085459aa169e6a187d4c37a) by Fishboe (https://sketchfab.com/ministephen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
